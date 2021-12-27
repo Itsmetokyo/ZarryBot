@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://wallpaperaccess.com/full/5304871.jpg" alt="chitoge" border="0"></a>
+<a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://telegra.ph/file/7d356b5c948a25a6147f4.jpg" alt="chitoge" border="0"></a>
 
 # **Chitoge : A WhatsApp BOT WITH RICH ANIME FEATURES**
 
@@ -49,7 +49,7 @@
 
 ### 🟢 WhatsApp Group
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlGNyRC9TMI07r1Fvt9fTU)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/)
 
 ## 📄 License
 
